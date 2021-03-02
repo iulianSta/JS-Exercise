@@ -1,1 +1,1 @@
-# live-coding
+# JavaScript practice exercises
